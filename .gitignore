@@ -1,0 +1,27 @@
+# Explicit publication allowlist. Unreviewed local source/data/runtime remains untracked.
+/*
+!/.gitignore
+!/app.manifest
+!/AssemblyInfo.cs
+!/build.ps1
+!/DesktopArrangement.cs
+!/DesktopGrid.cs
+!/DesktopReplacement.cs
+!/ExpansionLayout.cs
+!/ExplorerIntegration.cs
+!/FolderPanel.cs
+!/FolderPreview.cs
+!/FolderWidget.cs
+!/LICENSE.txt
+!/Manager.cs
+!/Model.cs
+!/Native.cs
+!/Preferences.cs
+!/Program.cs
+!/README.md
+!/ShellServices.cs
+!/SOURCE-BASELINE.md
+!/SOURCE-VALIDATION.md
+!/StartupIntegration.cs
+!/Tests.cs
+!/Ui.cs
